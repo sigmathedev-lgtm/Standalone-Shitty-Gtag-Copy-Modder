@@ -1,1 +1,0 @@
-frida -U -n com.oculus.appsafety -l bypass.ts
